@@ -29,8 +29,7 @@
 int main(int argc, char** argv)
 {
     //const char* path = argv[1];
-    const char* path = "../cc.ts";
-
+   
     char mydata[2048];
 
     ts_t ts;
